@@ -1,0 +1,17 @@
+5 5 7
+DEFAULT
+BB
+ B
+ A
+AA
+C
+CC
+D
+DD
+EE
+EE
+E
+TT
+TT
+T
+ZZZ
