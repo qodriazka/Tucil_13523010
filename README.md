@@ -24,7 +24,7 @@ Untuk menjalankan program, ikuti langkah-langkah berikut:
 4. Ikuti instruksi di layar untuk melihat solusi dan menyimpan hasilnya.
 
 ## Input yang Diperlukan
-- **Nama file input**: File yang berisi data puzzle yang sesuai dengan format yang ditentukan.
+- **Nama file input**: File yang berisi data puzzle yang sesuai dengan format yang ditentukan dengan extension. Contoh: "test.txt"
   
 ## Output
 Program akan menampilkan solusi puzzle di layar dan memberikan pilihan untuk menyimpan solusi ke dalam file.
@@ -33,7 +33,7 @@ Program akan menampilkan solusi puzzle di layar dan memberikan pilihan untuk men
 1. Saat dijalankan, program akan meminta kamu untuk memasukkan nama file input yang berisi data puzzle.
 2. Program akan membaca file input tersebut, kemudian mencoba menyusun potongan-potongan untuk mengisi papan sesuai aturan.
 3. Setelah selesai, program akan menampilkan hasil di layar.
-4. Jika kamu ingin menyimpan solusi, kamu dapat memasukkan nama file untuk menyimpan hasilnya.
+4. Jika kamu ingin menyimpan solusi, kamu dapat memasukkan nama file untuk menyimpan hasilnya. Masukkan nama file beserta extension seperti "output.txt"
 
 ## Author
-Program ini dikembangkan oleh [Nama Author].
+Program ini dikembangkan oleh Qodri Azkarayan/13523010.
